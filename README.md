@@ -23,16 +23,6 @@ Utilizo herramientas de IA como apoyo para la codificación, revisión de códig
 - 🛠️ Tengo experiencia resolviendo incidencias y optimizando consultas SQL.
 - 📚 Continúo aprendiendo sobre arquitectura de software, backend e IA aplicada.
 
-## Experiencia
-
-### Desarrollador Web Full Stack Jr · Rumi - Grupo Inmobiliario
-
-**Julio de 2025 - Actualidad · Lima, Perú**
-
-- Desarrollo y mantenimiento de plataformas web empresariales, incluyendo un ERP interno y un hub empresarial.
-- Implementación de funcionalidades con PHP, CodeIgniter, MySQL y JavaScript.
-- Optimización de consultas SQL, resolución de incidencias en producción y mejora de la estabilidad operativa.
-
 ## Tecnologías
 
 | Área | Tecnologías |
@@ -65,7 +55,7 @@ Sistema de recomendación basado en contenido que sugiere videojuegos similares 
 
 `Python` `Pandas` `TensorFlow` `K-Means` `DEC` `Matplotlib`
 
-### 🎓 AI-EVAEDUCA · 2024
+### 🎓 [AI-EVAEDUCA](https://github.com/alvaro-chz/IrisTech) · 2024
 
 Plataforma web educativa para gestionar profesores, alumnos, cursos, tareas, entregas y reclamos mediante módulos diferenciados por rol. Implementa calificación automática con IA, procesando trabajos y rúbricas DOCX para generar notas y retroalimentación personalizada.
 
@@ -83,16 +73,6 @@ Actualmente cursando el noveno ciclo.
 
 - **Español:** nativo
 - **Inglés:** básico
-
-## Actividad en GitHub
-
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=antorm08&show_icons=true&locale=es&hide_border=true&theme=transparent)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antorm08&layout=compact&locale=es&hide_border=true&theme=transparent)
-
-</div>
 
 ## Contacto
 
