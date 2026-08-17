@@ -31,7 +31,7 @@ Utilizo herramientas de IA como apoyo para la codificación, revisión de códig
 | **Frontend** | HTML · CSS · React · AngularJS · Astro · Tailwind CSS · Flutter |
 | **Backend** | Node.js · Django · FastAPI · CodeIgniter · Prisma ORM · REST APIs |
 | **Datos e IA** | Pandas · TensorFlow · PyTorch · Scikit-learn · K-Means · DEC · Matplotlib · OpenAI API |
-| **Bases de datos** | MySQL · MongoDB · Oracle Database · SQLite |
+| **Bases de datos** | MySQL · PostgreSQL · MariaDB · MongoDB · Oracle Database · SQLite |
 | **Herramientas** | Git · GitHub · Docker · Linux · VS Code · Figma · Render · Vercel · Cloudinary · Bizagi |
 | **IA para desarrollo** | GitHub Copilot · OpenCode · ChatGPT |
 
